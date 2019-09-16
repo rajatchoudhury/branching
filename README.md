@@ -1,3 +1,5 @@
 # BRANCHING
 
-## Changes nade in development
+## Changes made in development
+
+### Feature branch changes
